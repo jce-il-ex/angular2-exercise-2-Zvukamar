@@ -13,4 +13,6 @@ export class NavItemComponent implements OnInit {
 
   ngOnInit() {}
 
+  func(){}
+
 }
