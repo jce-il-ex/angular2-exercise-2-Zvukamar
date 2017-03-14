@@ -9,16 +9,20 @@ export class NavMenuComponent implements OnInit {
 
 myList = [
     {
-      txt: 'Home'
+      txt: 'Home',
+      link: '#Home'
     },
     {
-      txt: 'Store'
+      txt: 'Store',
+      link: '#Store'
     },
     {
-      txt: 'About Us'
+      txt: 'About Us',
+      link: '#AboutUs'
     },
     {
-      txt: 'Contact Us'
+      txt: 'Contact Us',
+      link: '#ContactUs'
     }
   ];
 
